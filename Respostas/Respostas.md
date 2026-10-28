@@ -1,0 +1,1 @@
+# As respostas devem ser alocadas nessa pasta seguindo o padrão do README.md
